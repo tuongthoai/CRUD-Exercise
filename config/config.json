@@ -1,0 +1,41 @@
+{
+  "development": {
+    "username": "admin",
+    "password": "yTRXnuab6TuULxLQRwSC0Rgc07iQaJZJ",
+    "database": "intro2webdesign",
+    "host": "dpg-clfb8el8td7s73b8po7g-a.singapore-postgres.render.com",
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
+  },
+  "test": {
+    "username": "admin",
+    "password": "yTRXnuab6TuULxLQRwSC0Rgc07iQaJZJ",
+    "database": "intro2webdesign",
+    "host": "dpg-clfb8el8td7s73b8po7g-a.singapore-postgres.render.com",
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
+  },
+  "production": {
+    "username": "admin",
+    "password": "yTRXnuab6TuULxLQRwSC0Rgc07iQaJZJ",
+    "database": "intro2webdesign",
+    "host": "dpg-clfb8el8td7s73b8po7g-a.singapore-postgres.render.com",
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
+  }
+}
